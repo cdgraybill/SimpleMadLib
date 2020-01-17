@@ -1,0 +1,11 @@
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\MadLibExercise\MadLibExercise\obj\Debug\netcoreapp3.1\MadLibExercise.csprojAssemblyReference.cache
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\MadLibExercise\MadLibExercise\obj\Debug\netcoreapp3.1\MadLibExercise.AssemblyInfoInputs.cache
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\MadLibExercise\MadLibExercise\obj\Debug\netcoreapp3.1\MadLibExercise.AssemblyInfo.cs
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\MadLibExercise\MadLibExercise\bin\Debug\netcoreapp3.1\MadLibExercise.exe
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\MadLibExercise\MadLibExercise\bin\Debug\netcoreapp3.1\MadLibExercise.deps.json
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\MadLibExercise\MadLibExercise\bin\Debug\netcoreapp3.1\MadLibExercise.runtimeconfig.json
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\MadLibExercise\MadLibExercise\bin\Debug\netcoreapp3.1\MadLibExercise.runtimeconfig.dev.json
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\MadLibExercise\MadLibExercise\bin\Debug\netcoreapp3.1\MadLibExercise.dll
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\MadLibExercise\MadLibExercise\bin\Debug\netcoreapp3.1\MadLibExercise.pdb
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\MadLibExercise\MadLibExercise\obj\Debug\netcoreapp3.1\MadLibExercise.dll
+C:\Users\Cam\Documents\Codes\TrueCoders\CSharpProjects\MadLibExercise\MadLibExercise\obj\Debug\netcoreapp3.1\MadLibExercise.pdb
