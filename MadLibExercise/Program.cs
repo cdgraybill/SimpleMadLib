@@ -6,35 +6,46 @@ namespace MadLibExercise
     {
         static void Main(string[] args)
         {
-            Intro();
-            Console.WriteLine($"{GetName()} decided to walk his {getNoun()} to the {getPlace()}.");
-            Console.ReadLine();
-        }
+            string intro = "Lets do a MadLib!";
+            TalkToUser(intro);
 
-        public static void Intro()
-        {
-            Console.WriteLine("Let's do a MadLib");
-            Console.ReadLine();
-        }
-
-        public static string GetName()
-        {
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
+
+            Console.WriteLine("State a noun");
+            string noun = Console.ReadLine();
+
+            Console.WriteLine("State a place");
+            string place = Console.ReadLine();
+
+            GetName(name);
+            GetNoun(noun);
+            GetPlace(place);
+
+            Console.WriteLine($"{name} decided to walk his {noun} to the {place}.");
+            Console.ReadLine();
+        }
+
+        public static void TalkToUser(string text)
+        {
+            Console.WriteLine(text);
+        }
+
+        public static string GetName(string userInput)
+        {
+            string name = userInput;
             return name;
         }
 
-        public static string getNoun()
+        public static string GetNoun(string userInput)
         {
-            Console.WriteLine("State a noun");
-            string noun = Console.ReadLine();
+            string noun = userInput;
             return noun;
         }
 
-        public static string getPlace()
+        public static string GetPlace(string userInput)
         {
-            Console.WriteLine("State a place");
-            string place = Console.ReadLine();
+            string place = userInput;
             return place;
         }
 
